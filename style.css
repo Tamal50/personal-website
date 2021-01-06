@@ -20,8 +20,7 @@ h1{
 #project{
     
     color: darkorange;
-    font-size: 40px;
-    
+    font-size: 40px; 
 }
 
 .project{
@@ -29,19 +28,17 @@ h1{
     margin-bottom: 70px;
 }
 #service{
-    
     color: yellowgreen;
     font-size: 40px;
-    
 }
 .service{
     margin-top: 100px;
     text-align: center;
 }
 .half-width{
-    padding: 2%;
     width: 40%;
     margin-left: 5%;
+    padding: 2%;
     float: left;
 }
 .half-width img{
@@ -50,37 +47,33 @@ h1{
 .link-botton1{
     text-decoration: none;
     background-image: linear-gradient(45deg, #1414f5d2, #d12cbb, #2c2fc5);
-    padding: 10px 20px;
     border-radius: 10px;
+    padding: 10px 20px;
     color: white;
 }
 .link-botton2{
     text-decoration: none;
     background-image: linear-gradient(45deg, #1414f5d2,#663cca, #2308bb );
-    padding: 10px 20px;
     border-radius: 7px;
+    padding: 10px 20px;
     color: white;
 }
 p{
     margin-bottom: 40px;
 }
 .pic{
-    padding: 2%;
+    border-radius: 17px;
     width: 25%;
+    height: 70%;
+    margin-left: 3%;
+    padding: 2%;
     float: left;
     box-shadow: 5px 5px 40px grey;
-    border-radius: 17px;
-    margin-left: 3%;
-    height: 70%;
     background-color: white;
-    
-    
 }
 .pic img{
     width: 100%;
 }
-
-
 .servicelogo{
     width: 25%;
     padding: 4%;
@@ -90,7 +83,6 @@ p{
 .servicelogo img{
     width: 70%;
     box-shadow: 0px 0px 0px grey;
-    
 }
 .our-service{
     margin-left: 30px;
@@ -121,25 +113,18 @@ p{
 #worktext1{
     color: cornsilk;
     font-size: 30px;
-
 }
-
 .letchat{
     text-decoration: none;
     background-image: linear-gradient(180deg, crimson,tomato);
     padding: 15px 30px;
     border-radius: 10px;
     color: white;
-    
-
 }
 
 h5{
-
     font-size: 30px;
-
 }
-
 h6{
     font-size: 20px;
 }
